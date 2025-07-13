@@ -1,0 +1,25 @@
+{
+    "name": "Muchammad Ardan - Portfolio",
+    "short_name": "1145 Portfolio",
+    "icons": [
+        {
+            "src": "1145.jpg",
+            "sizes": "16x16",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "1145.jpg",
+            "sizes": "32x32",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "1145.jpg",
+            "sizes": "180x180",
+            "type": "image/jpeg"
+        }
+    ],
+    "theme_color": "#2c5aa0",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/"
+}
